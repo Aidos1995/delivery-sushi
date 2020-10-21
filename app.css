@@ -1,0 +1,132 @@
+#header{
+    padding: 40px;
+    border: 1px solid #282923;
+    background-color:#6F25A3;
+}
+
+.reklama{
+    color: white;
+    font-size: 50px;
+}
+
+#footer{
+    padding: 40px;
+    border: 1px solid #464646;
+    background-color:#464646;
+}
+
+.tovar{
+border:1px solid #E9E5E5;
+border-radius:5px;
+padding:20px;
+}
+
+.tovar img{
+width:100%;
+}
+
+.cena{
+color:#CF8825;font-size:32px;font-weight:700;
+}
+
+.korzina-btn{
+background-color:#CF8825;
+border-color:#CF8825;color:white;font-size:18px;
+width:100%;
+}
+
+.korzina-btn:hover{
+background-color:#187C11;
+border-color:#187C11;
+color:white;font-size:18px;
+width:100%;
+}
+
+.sushi-name{
+font-size:22px;
+font-weight:700;
+}
+
+
+
+#akcia{
+color:green;
+}
+
+.hot_prices{
+border:1px solid #E9E5E5;
+border-radius:5px;
+padding:10px ;
+}
+
+.hot_prices img{
+width:110%;
+}
+
+.sushi_price{
+    font-size:20;
+    color:red;
+}
+
+.busket{
+    background-color:#1388C3;
+    border-color:#1388C3;color:white;font-size:10px;
+    width:100%;
+}
+
+.busket:hover{
+background-color:#187C11;
+border-color:#187C11;
+color:white;font-size:10px;
+width:100%;
+}
+
+.text1{
+    font-size:14px;
+    color:blue;
+}
+
+.text2{
+    font-size:14px;
+    color:green;
+}
+
+.text3{
+    font-size:14px;
+    color:red;
+}
+
+.order{
+    background-color:#6F25A3;
+    border-color:#6F25A3;color:white;
+    width:100%;
+}
+
+.order:hover{
+    background-color:#0FC0FC;
+    border-color:#0FC0FC;
+    color:white;
+    width:100%;
+}
+
+.footer_text{
+    color: white;
+}
+
+.icon{
+    color: white;
+    font-size: 16px;
+}
+
+.owl-carousel .owl-stage{
+    display: flex;
+}
+
+.owl-carousel .owl-item img{
+    width: auto;
+    height: 30%;
+}
+
+.konveir{
+    background-color: #ebebeb;
+}
